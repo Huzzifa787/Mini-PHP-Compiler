@@ -1,0 +1,14 @@
+<?php
+function myname($a,$b)
+{
+	if(20<10)
+	{
+		echo "Hello World";
+		while(10>5)
+		{
+			echo "Hello";
+		}
+	}
+	
+}
+?>
